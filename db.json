@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "id": "2",
+        "nome": "Caramelo",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-02.png"
+      },
+      {
+        "id": "3",
+        "nome": "Lilica",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-03.png"
+      },
+      {
+        "id": "4",
+        "nome": "Dudu",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-04.png"
+      },
+      {
+        "id": "5",
+        "nome": "Maggie",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-05.png"
+      },
+      {
+        "id": "6",
+        "nome": "Bóris",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-06.png"
+      },
+      {
+        "id": "7",
+        "nome": "Kitty",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-11.png"
+      },
+      {
+        "id": "8",
+        "nome": "Letto",
+        "valor": "R$30,00",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-12.png"
+      },
+      {
+        "id": "28dc",
+        "nome": "Cornélio",
+        "valor": "R$ 30",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-01.png"
+      },
+      {
+        "id": "fd46",
+        "nome": "Lili",
+        "valor": "R$ 30",
+        "imagem": "https://imagens-urls.vercel.app/img/pet-05.png"
+      }
+    ]
+  }
